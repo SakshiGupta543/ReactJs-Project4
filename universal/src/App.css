@@ -1,0 +1,52 @@
+ul{
+  background-color: blue;
+  border-radius: 50px;
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+   font-size: 20px;
+}
+li{
+  float: left;
+}
+li a{
+  display: block;
+  color: white;
+  text-align: right;
+  padding: 15px 15px;
+  text-decoration: none;
+
+}
+li a:hover{
+  
+  color: black;
+  background-color: yellow;
+  border-radius: 50px;
+}
+.Nav{
+  text-align: center;
+}
+.d{
+  color:white;
+  background-image: url(ph4.jpeg);
+  font-size: 50px;
+  text-align: justify;
+  padding: 60px;
+
+
+}
+
+
+h1{
+  text-align: center;
+  font-size: 50px;
+  color:#ff0066;
+}
+
+.b{
+  display: flex;
+  height: 310px;
+  
+
+}
